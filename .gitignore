@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.ruff_cache/
+.mypy_cache/
+esp_db/
+.env
